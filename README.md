@@ -1,3 +1,18 @@
+# Personal Ender 3 Config
+
+## Specs
+
+Part | Link
+---- | ----
+Orbiter Extruder | https://bit.ly/3hBcg98
+Dragon Hotend | https://bit.ly/3ipNKr1
+104GT 2 Thermistor | https://bit.ly/36xXvgX
+PINDA v2 Clone | https://bit.ly/3eAQ79l
+Wham Bam PEI Build Plate | https://bit.ly/2VBOfWV
+SKR 1.4 Turbo w/ TMC2209 | https://bit.ly/3egYpD5
+Dual Z Steppers | N/A
+TFT35 E3 3.0 | https://bit.ly/3icZtZC
+___
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
